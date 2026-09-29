@@ -92,3 +92,8 @@ The site rebuilds daily at midnight UTC to refresh GitHub stats.
 | `npm run fetch-data` | Fetch GitHub data locally (requires `.env.local`) |
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint |
+
+
+UPDATE READMEEE
+
+SONNYIONNN
